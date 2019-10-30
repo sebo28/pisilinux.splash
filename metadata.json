@@ -20,7 +20,7 @@
         ],
         "Category": "plasma-splashscreen",
         "Description": "pisilinux.splash",
-        "Id": "com.gitlab.jurassicplayer.SnowyNightMiku",
+        "Id": "com.gitlab.jurassicplayer.pisilinux.splash",
         "License": "",
         "Name": "pisilinux.splash",
         "ServiceTypes": [
