@@ -122,7 +122,7 @@ Rectangle {
         anchors.verticalCenter: parent.verticalCenter
         horizontalAlignment: Text.AlignHCenter
         width: Screen.width * 0.31
-        text: "HOŞ GELDİNİZ"
+        text: "HOŞ GELDİNİZ!"
         opacity: 0
         Behavior on opacity { NumberAnimation {duration: 1000; easing {type: Easing.InOutQuad}} }
     }
