@@ -20,7 +20,7 @@
         ],
         "Category": "plasma-splashscreen",
         "Description": "pisilinux.splash",
-        "Id": "pisilinux.splash",
+        "Id": "org.kde.pisilinux.desktop",
         "License": "",
         "Name": "pisilinux.splash",
         "ServiceTypes": [
